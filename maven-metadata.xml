@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.repro</groupId>
+  <artifactId>repro-android-sdk</artifactId>
+  <version>0.8.20</version>
+  <versioning>
+    <versions>
+      <version>0.8.20</version>
+    </versions>
+    <lastUpdated>20150930103301</lastUpdated>
+  </versioning>
+</metadata>
