@@ -4,11 +4,11 @@
 
 ## Quick Start Guide
 
-- [Qucik Start: Android](http://docs.repro.io/en/quickstart/android)
+- [Quick Start: Android](http://docs.repro.io/en/quickstart/android.html)
 
 ## Documentation
 
-Read [the documentation](https://docs.repro.io) for further information
+Read [the documentation](http://docs.repro.io) for further information
 
 ## Author
 
