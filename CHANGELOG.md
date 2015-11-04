@@ -1,3 +1,13 @@
+# 0.10.1 (2015/11/3)
+
+## Features
+
+- Supports Eclipse ADT
+
+## Improvements
+
+- Remove dependency to VolleyPlus
+
 # 0.9.3 (2015/10/21)
 
 ## Features

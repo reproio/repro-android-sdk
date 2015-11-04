@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>0.9.3</version>
+  <version>0.10.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -23,12 +23,6 @@
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib</artifactId>
       <version>0.14.449</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>dev.dworks.libs</groupId>
-      <artifactId>volleyplus</artifactId>
-      <version>0.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
