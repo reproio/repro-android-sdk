@@ -1,3 +1,15 @@
+# 0.11.0 (2015/11/30)
+
+## User Profiles
+
+- You can segment the group of users with these profiles when sending push notifications or in-app messages by setting user profiles. [See the doc for more details](http://docs.repro.io/en/api/user-profile.html)
+
+## Improvements
+
+- Supports legacy Play Services SDK
+	- You can receive Push Notification with Play Services SDK 3.1.36~. [See the doc for more details](http://docs.repro.io/en/manual/push-notification-android.html)
+- Improves memory usage and stability during screen recording
+
 # 0.10.1 (2015/11/3)
 
 ## Features
