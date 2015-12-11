@@ -1,3 +1,14 @@
+# 0.11.4 (2015/12/12)
+
+## Improvements
+
+- Enables to use large size image for in-app message
+
+## Bug Fixes
+
+- Fixes potential error when building the application with Eclipse
+- Fixes the bug where masking feature didn't work correctly
+
 # 0.11.0 (2015/11/30)
 
 ## User Profiles
