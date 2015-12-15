@@ -1,3 +1,10 @@
+# 0.11.7 (2015/12/15)
+
+## Bug Fixes
+
+- Fixes the bug where the app had been interfered by the SDK listening key events 
+- Fixes unintentinal masking while the target view's parent is GONE
+
 # 0.11.4 (2015/12/12)
 
 ## Improvements
