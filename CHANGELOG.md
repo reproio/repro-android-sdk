@@ -1,9 +1,15 @@
+# 0.12.0 (2015/12/18)
+
+## Improvements
+
+- Support Unity (except for recording)
+
 # 0.11.7 (2015/12/15)
 
 ## Bug Fixes
 
-- Fixes the bug where the app had been interfered by the SDK listening key events 
-- Fixes unintentinal masking while the target view's parent is GONE
+- Fixes the bug where the app had been interfered by the SDK listening key events
+- Fixes unintentional masking while the target view's parent is GONE
 
 # 0.11.4 (2015/12/12)
 
