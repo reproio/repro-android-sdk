@@ -1,3 +1,16 @@
+# 0.13.1 (2016/01/15)
+
+## Improvements
+
+- Remove dependency to AWS SDK
+- Remove dependency to kotlin-stdlib
+- Add option to disable ANDROID_ID collection
+
+## Bug Fixes
+
+- Fixes touch position on floating activity
+- Fixes movie concatenation in inproper order
+
 # 0.12.0 (2015/12/18)
 
 ## Improvements
