@@ -1,3 +1,18 @@
+# 0.13.15 (2016/01/29)
+
+## Improvements
+
+- Add option to customize the notification icon and its background color
+- Remove dependency to Otto
+- Add `maskWithRect` API
+
+## Bug Fixes
+
+- Fix WebView event tracking API to support i18n
+- Fix crashes when recording floating activity
+- Fix crashes while masking
+- Fix the recording confirmation dialog duplication
+
 # 0.13.3 (2016/01/15)
 
 ## Improvements
