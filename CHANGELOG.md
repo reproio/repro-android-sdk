@@ -1,3 +1,11 @@
+# 0.13.18 (2016/02/04)
+
+## Bug Fixes
+
+- Fix the bug where Activity.onTouchEvent was interfered by the SDK
+- Reduce the possibility of custom events are tracked with invalid timestamp
+- Fix potential crashes when stopping recording
+
 # 0.13.15 (2016/01/29)
 
 ## Improvements
