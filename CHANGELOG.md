@@ -1,3 +1,14 @@
+# 0.13.22 (2016/02/11)
+
+## Changes
+
+- Stop trying to upload files when internet connection is not available
+- Limit event name length and event properties type
+
+## Bug Fixes
+
+- Fix the bug where the recorded movie doesn't reflect initial orientation of the device
+
 # 0.13.18 (2016/02/04)
 
 ## Bug Fixes
