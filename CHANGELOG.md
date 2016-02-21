@@ -1,3 +1,23 @@
+# 0.14.5 (2016/02/21)
+
+## Features
+
+- Add crash reporting
+- New In-App Message
+  - Enables to choose Dialog type
+  - Enables to use two buttons in message
+
+## Changes
+
+- Deprecate `track(Sgtring JSONObject)` API
+  - Use `track(String, Map<String, Object>)` instead
+
+## Bug Fixes
+
+- Fix crashes when the application goes foreground
+- Fix crashes while preparing GL
+- Fix the bug where the old session data wan't removed correctly
+
 # 0.13.22 (2016/02/11)
 
 ## Changes

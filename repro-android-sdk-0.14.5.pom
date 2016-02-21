@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>0.13.22</version>
+  <version>0.14.5</version>
   <packaging>aar</packaging>
 </project>
