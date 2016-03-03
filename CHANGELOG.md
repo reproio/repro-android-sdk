@@ -1,3 +1,17 @@
+# 0.15.0 (2016/03/03)
+
+## Features
+
+- Add Masking API for WebView
+
+## Improvements
+
+- Make a user ID persistent
+
+## Bug Fixes
+
+- Reduce the possibility to upload duplicate session data
+
 # 0.14.5 (2016/02/21)
 
 ## Features
