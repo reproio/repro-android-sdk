@@ -1,3 +1,19 @@
+# 1.0.1 (2016/03/11)
+
+## Features
+
+- Enable to show in-app message when tracking event
+
+## Improvements
+
+- Improve stability of session and recording
+
+## Bug fixes
+
+- Fix file upload over 4G
+- Fix a rare crash after stopping recording while paused
+- Fix the format of crash report on Android 4.3 or earlier
+
 # 0.15.0 (2016/03/03)
 
 ## Features
