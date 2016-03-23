@@ -1,3 +1,20 @@
+# 1.1.2 (2016/03/23)
+
+## New
+
+- Enabled to track push notifiation as opened
+
+## Improved
+
+- Improved thread safety
+- Improved stability of uploading
+
+## Fixed
+
+- Fixed delay of session data uploads
+- Reduced the posibility to deliver in-app messages already shown
+- Fixed the posibility of NullPointerException
+
 # 1.0.1 (2016/03/11)
 
 ## Features
