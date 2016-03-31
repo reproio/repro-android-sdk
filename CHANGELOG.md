@@ -1,4 +1,10 @@
-# 1.1.2 (2016/03/31)
+# 1.1.5 (2016/03/31)
+
+## Fixed
+
+- Fixed the bug where Activity.onWindowFocusChanged was interfered by the SDK
+
+# 1.1.4 (2016/03/31)
 
 ## Fixed
 
