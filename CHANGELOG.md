@@ -1,3 +1,10 @@
+# 1.1.2 (2016/03/31)
+
+## Fixed
+
+- Fixed a crash when recording stopped
+- Reduced a possibility to upload invalid session data
+
 # 1.1.2 (2016/03/23)
 
 ## New
