@@ -4,6 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>1.1.5</version>
+  <version>1.1.14</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-v4</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>

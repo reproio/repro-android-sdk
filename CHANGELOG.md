@@ -1,3 +1,12 @@
+# 1.1.14 (2016/04/25)
+
+## Improved
+
+- Improved stability of recording
+- Improved stability of displaying In-App message
+- Retry configuration if it is failed
+- Use default SSLContext to download image
+
 # 1.1.5 (2016/03/31)
 
 ## Fixed
