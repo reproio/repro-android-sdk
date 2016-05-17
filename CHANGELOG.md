@@ -1,3 +1,18 @@
+# 1.1.26 (2016/05/16)
+
+## New
+
+- Add `getDeviceID` and `getUserID` API
+
+## Improved
+
+- Don't overwrite existing notification when receives new GCM message
+- Prevent to track touches while pause recording
+- Remove dependency to Support.V4
+- Limit the length of user profile key and value
+- Track In-App Message ID even if the app was killed after showing the Message
+- Track CTA event event if CTA URL is not specified
+
 # 1.1.14 (2016/04/25)
 
 ## Improved
