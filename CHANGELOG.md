@@ -1,3 +1,9 @@
+# 1.1.29 (2016/05/19)
+
+## Fixed
+
+- Fixed the possibility of NullPointerException while tracking WebView
+
 # 1.1.28 (2016/05/18)
 
 ## Fixed
@@ -45,7 +51,7 @@
 
 ## New
 
-- Enabled to track push notifiation as opened
+- Enabled to track push notification as opened
 
 ## Improved
 
@@ -55,8 +61,8 @@
 ## Fixed
 
 - Fixed delay of session data uploads
-- Reduced the posibility to deliver in-app messages already shown
-- Fixed the posibility of NullPointerException
+- Reduced the possibility to deliver in-app messages already shown
+- Fixed the possibility of NullPointerException
 
 # 1.0.1 (2016/03/11)
 
@@ -99,7 +105,7 @@
 
 ## Changes
 
-- Deprecate `track(Sgtring JSONObject)` API
+- Deprecate `track(String JSONObject)` API
   - Use `track(String, Map<String, Object>)` instead
 
 ## Bug Fixes
