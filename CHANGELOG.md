@@ -1,3 +1,14 @@
+# 1.1.37 (2016/06/01)
+
+## Changes
+
+- Deprecate `enableCrashReporting()` API
+
+## Improved
+
+- Improved stability of recording
+- Show progress dialog while loading In-App message
+
 # 1.1.29 (2016/05/19)
 
 ## Fixed
