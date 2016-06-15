@@ -1,3 +1,18 @@
+# 1.1.47 (2016/06/14)
+
+Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-1-1-47).
+
+## Improved
+
+- Show the progress dialog while loading the image of the In-App message
+- Track WebView event called from immediate function of JavaScript
+
+## Fixed
+
+- Fixed the some layout issue of the In-App message
+- Fixed the possibility of the InternalError while starting the Timer
+- Fixed the possibility of the ClassCastException while tracking the rotation of the device
+
 # 1.1.37 (2016/06/01)
 
 ## Changes
