@@ -1,6 +1,23 @@
+# 1.2.0 (2016/06/30)
+
+**The special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-1-2-0).**
+
+## Changes
+
+- Deprecate `setup(String)` API. Use `setup(Application, String)` instead.
+
+## Improved
+
+- Clear the masks for WebView when it transit to the other page
+
+## Fixed
+
+- Fixed the crash when starting the application in some devices
+- Fixed the bug where it rarely failed to start recording
+
 # 1.1.47 (2016/06/14)
 
-Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-1-1-47).
+**If you are using WebView tracking and/or masking, the special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-1-1-47).**
 
 ## Improved
 
