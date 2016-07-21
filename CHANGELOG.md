@@ -1,3 +1,11 @@
+# 1.2.9 (2016/07/20)
+
+## Improved
+
+- Prevent uploading the empty movie file
+- Remove deprecated API call for recording
+- Record In-App message view
+
 # 1.2.0 (2016/06/30)
 
 **The special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-1-2-0).**
