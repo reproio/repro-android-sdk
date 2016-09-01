@@ -1,3 +1,9 @@
+# 2.0.4 (2016/09/01)
+
+## Fixed
+
+- Fixed the bug where it rarely failed to close In-App Message
+
 # 2.0.0 (2016/08/16)
 
 **The special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-android-2.0.0).**
