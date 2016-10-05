@@ -1,3 +1,9 @@
+# 2.1.0 (2016/10/05)
+
+## New
+
+- Enable to open Deep Link or Web URL by opening Push Notification
+
 # 2.0.4 (2016/09/01)
 
 ## Fixed
@@ -6,7 +12,7 @@
 
 # 2.0.0 (2016/08/16)
 
-**The special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-android-2.0.0).**
+**The special step is required to upgrade the SDK. Please read our [Upgrade Guide](http://docs.repro.io/en/dev/sdk/upgrade/android.html#upgrading-to-android-2-0-0).**
 
 ## New
 
@@ -80,7 +86,7 @@
 
 ## Fixed
 
-- Fixed the bug where Push Notification was not track properly
+- Fixed the bug where Push Notification was not tracked properly
 
 # 1.1.26 (2016/05/16)
 
