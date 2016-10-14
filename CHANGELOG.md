@@ -1,3 +1,9 @@
+# 2.1.2 (2016/10/13)
+
+## Fixed
+
+- Fixed the size of In-App Message dialog type image
+
 # 2.1.0 (2016/10/05)
 
 ## New
