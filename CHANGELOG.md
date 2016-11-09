@@ -1,3 +1,17 @@
+# 2.1.7 (2016/11/09)
+
+## New
+
+- Enable to stop recording during scrolls
+
+## Improved
+
+- Draw masks larger during scrolls
+
+## Fixed
+
+- Fixed the bug where the masking comes sporadically off for an instant right after the web page is loaded
+
 # 2.1.2 (2016/10/13)
 
 ## Fixed
