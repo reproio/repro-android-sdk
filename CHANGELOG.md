@@ -1,3 +1,9 @@
+# 2.1.8 (2016/11/17)
+
+## Improved
+
+- Show the dialog type In-App Message larger for devices that has large display
+
 # 2.1.7 (2016/11/09)
 
 ## New
