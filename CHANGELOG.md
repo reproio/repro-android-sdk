@@ -1,3 +1,9 @@
+# 2.1.11 (2016/11/25)
+
+## Fixed
+
+- Fixed the bug where it raises SSL handshake error while connecting to Repro's server
+
 # 2.1.8 (2016/11/17)
 
 ## Improved
