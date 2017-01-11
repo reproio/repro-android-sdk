@@ -1,3 +1,13 @@
+# 2.1.22 (2017/01/06)
+
+## Improved
+
+- Add length validation for the User ID and the application version name
+
+## Fixed
+
+- Fixed the possibility of the Exception while tracking the orientation of the device
+
 # 2.1.11 (2016/11/25)
 
 ## Fixed
