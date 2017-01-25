@@ -1,3 +1,7 @@
+# 2.2.0 (2017/01/25)
+
+Support [Rich push notification](http://docs.repro.io/en/dashboard/campaign/push-notification.html#media) for Android 4.1~.
+
 # 2.1.22 (2017/01/06)
 
 ## Improved
