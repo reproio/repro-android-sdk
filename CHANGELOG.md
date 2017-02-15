@@ -1,6 +1,14 @@
+# 2.3.0 (2017/02/15)
+
+## New Feature
+
+- Dialog message has a new layout with [just an image](http://docs.repro.io/en/dashboard/campaign/in-app-message.html#dialog-image-only)
+
 # 2.2.0 (2017/01/25)
 
-Support [Rich push notification](http://docs.repro.io/en/dashboard/campaign/push-notification.html#media) for Android 4.1~.
+## New Feature
+
+- Support [Rich push notification](http://docs.repro.io/en/dashboard/campaign/push-notification.html#media) for Android 4.1~.
 
 # 2.1.22 (2017/01/06)
 
