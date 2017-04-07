@@ -1,3 +1,10 @@
+# 2.3.9 (2017/04/07)
+
+## Improved
+
+- Improve networking process stability.
+- Adjust text color of overlay type in-app messages.
+
 # 2.3.0 (2017/02/15)
 
 ## New Feature
