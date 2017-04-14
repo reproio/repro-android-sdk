@@ -1,3 +1,13 @@
+# 2.3.12 (2017/04/14)
+
+## New Feature
+
+- Enable using hashed ANDROID_ID as the device ID. See [Device ID](http://docs.repro.io/en/dev/sdk/device-id.html) for more details.
+
+## Improved
+
+- Change not to truncate the message body of stardard type push notifications.
+
 # 2.3.9 (2017/04/07)
 
 ## Improved
