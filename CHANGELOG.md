@@ -1,3 +1,9 @@
+# 2.3.13 (2017/04/20)
+
+## Improved
+
+- Improve performance while the application is in the background.
+
 # 2.3.12 (2017/04/14)
 
 ## New Feature
@@ -7,6 +13,11 @@
 ## Improved
 
 - Change not to truncate the message body of stardard type push notifications.
+
+## Bug Fixes
+
+- Fix the bug where duplicated push notifications may appear when the app is being uninstalled and re-installed repeatedly.
+  - Please implement GCMReceiver referencing [this document](http://docs.repro.io/en/dev/sdk/push-notification/android.html#customize-receiver) if you’re using JSON format messages.
 
 # 2.3.9 (2017/04/07)
 
