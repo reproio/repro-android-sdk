@@ -1,3 +1,9 @@
+# 2.3.16 (2017/04/27)
+
+## Bug Fixes
+
+- Fixed the bug where it rarely crashes when displaying In-App Message
+
 # 2.3.13 (2017/04/20)
 
 ## Improved
