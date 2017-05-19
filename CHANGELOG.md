@@ -1,3 +1,10 @@
+# 2.4.0 (2017/05/19)
+
+## New Feature
+
+- Add feature to track First Launch event automatically.
+  - Using First Launch event from the Dashboard will be ready shortly.
+
 # 2.3.16 (2017/04/27)
 
 ## Bug Fixes
