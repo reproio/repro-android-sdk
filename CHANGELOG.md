@@ -1,3 +1,10 @@
+# 2.5.13 (2017/06/02)
+
+## Bug Fixes
+
+- Fix the bug where the masking comes off while scrolling.
+- Fix the bug where it crashes when displaying In-App Message in specific devices.
+
 # 2.5.0 (2017/05/23)
 
 ## New Feature
