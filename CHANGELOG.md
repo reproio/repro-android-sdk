@@ -1,3 +1,13 @@
+# 2.6.0 (2017/07/03)
+
+## New Feature
+
+- Add APIs for tracking starndard events (typical events for user behavior analysis). See [Event Tracking](http://docs.repro.io/en/dev/sdk/tracking.html) for more details.
+
+## Bug Fixes
+
+- Fix the bug where it crashes when displaying overlay type In-App Message during multi-window mode.
+
 # 2.5.13 (2017/06/02)
 
 ## Bug Fixes
