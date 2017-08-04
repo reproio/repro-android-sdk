@@ -1,3 +1,24 @@
+# 2.6.8 (2017/08/04)
+
+## New Feature
+
+- Add standard events tracking APIs for WebView.
+  - You must change the URL of the Repro’s JavaScript file in your HTML. See [WebView](http://docs.repro.io/en/dev/sdk/webview.html) for more details.
+
+  ```diff
+  <head>
+  ...
+  -   <script src="//cdn.repro.io/js/v2/repro.js" type="text/javascript" charset="utf-8"></script>
+  +   <script src="//cdn.repro.io/js/v3/repro.js" type="text/javascript" charset="utf-8"></script>
+  ...
+  </head>
+  ```
+
+## Changes
+
+- Since Android 7.0 (API 24), the method `onUnhandledInputEvent` has been removed from WebViewClient, and therefore the `onUnhandledInputEvent` of WebViewClient passed to `Repro.startWebViewTracking` won’t be called. Please use `onUnhandledKeyEvent` instead of `onUnhandledInputEvent`.
+  - reference: https://developer.android.com/sdk/api_diff/24/changes/android.webkit.WebViewClient.html
+
 # 2.6.0 (2017/07/03)
 
 ## New Feature

@@ -2,9 +2,10 @@
 
 [Repro](https://repro.io) is a mobile analytics tool that lets you have much deeper understanding of mobile app users with play-by-play videos.
 
-## Quick Start Guide
+## Get Started
 
-- [Quick Start: Android](http://docs.repro.io/en/quickstart/android.html)
+- [EN](http://docs.repro.io/en/dev/sdk/getstarted/ios.html)
+- [JA](http://docs.repro.io/ja/dev/sdk/getstarted/ios.html)
 
 ## Documentation
 
