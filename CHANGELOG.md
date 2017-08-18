@@ -1,3 +1,18 @@
+# 2.6.11 (2017/08/18)
+
+## New Feature
+
+- Support Android O
+  - When targetSDKVersion of your application is greater than or equal to 26 and running on devices with Android O or later, the setup of Notification Channel is required in order to receive push notifications. Please see [this](http://docs.repro.io/en/dev/sdk/push-notification/android.html#notification-channel-setting) for the details.
+
+## Changes
+
+- Applications without specifying permission `${applicationId}.permission.C2D_MESSAGE` can now determine the opt-in state of push notifications correctly.
+
+## Bug Fixes
+
+- Fixed a bug which causes the background color of in-app messages become transparent while multiple in-app messages are presented within short time intervals.
+
 # 2.6.8 (2017/08/04)
 
 ## New Feature
