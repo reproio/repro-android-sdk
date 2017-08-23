@@ -4,8 +4,13 @@
 
 ## Get Started
 
-- [EN](http://docs.repro.io/en/dev/sdk/getstarted/ios.html)
-- [JA](http://docs.repro.io/ja/dev/sdk/getstarted/ios.html)
+- [EN](http://docs.repro.io/en/dev/sdk/getstarted/android.html)
+- [JA](http://docs.repro.io/ja/dev/sdk/getstarted/android.html)
+
+## Release Notes
+
+- [EN](http://docs.repro.io/en/releases/sdk/android/releases.html)
+- [JA](http://docs.repro.io/ja/releases/sdk/android/releases.html)
 
 ## Documentation
 
