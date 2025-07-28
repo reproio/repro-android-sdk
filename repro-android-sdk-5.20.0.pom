@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>io.repro</groupId>
+  <artifactId>repro-android-sdk</artifactId>
+  <version>5.20.0</version>
+  <packaging>aar</packaging>
+
+  <name>Repro</name>
+  <description>Repro is a mobile analytics tool that lets you have much deeper understanding of mobile app users.</description>
+  <url>https://repro.io</url>
+
+  <licenses>
+    <license>
+      <name>LicenseRef-Repro-SDK-License</name>
+      <url>https://cdn.reproio.com/android/io/repro/repro-android-sdk/5.20.0/LICENSE</url>
+      <distribution>repo</distribution>
+      <comments>See LICENSE file</comments>
+    </license>
+  </licenses>
+</project>
