@@ -6,7 +6,7 @@
 
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>5.20.1</version>
+  <version>5.20.2</version>
   <packaging>aar</packaging>
 
   <name>Repro</name>
@@ -16,7 +16,7 @@
   <licenses>
     <license>
       <name>LicenseRef-Repro-SDK-License</name>
-      <url>https://cdn.reproio.com/android/io/repro/repro-android-sdk/5.20.1/LICENSE</url>
+      <url>https://cdn.reproio.com/android/io/repro/repro-android-sdk/5.20.2/LICENSE</url>
       <distribution>repo</distribution>
       <comments>See LICENSE file</comments>
     </license>
