@@ -6,7 +6,7 @@
 
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>5.24.0-geopush</version>
+  <version>5.24.0-geopush-2</version>
   <packaging>aar</packaging>
 
   <name>Repro</name>
