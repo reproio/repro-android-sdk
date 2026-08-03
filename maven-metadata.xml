@@ -3,10 +3,10 @@
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
   <versioning>
-    <release>5.25.0</release>
+    <release>5.26.0</release>
     <versions>
-      <version>5.25.0</version>
+      <version>5.26.0</version>
     </versions>
-    <lastUpdated>20260727051151</lastUpdated>
+    <lastUpdated>20260803141022</lastUpdated>
   </versioning>
 </metadata>
