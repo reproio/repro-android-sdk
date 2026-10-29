@@ -6,7 +6,7 @@
 
   <groupId>io.repro</groupId>
   <artifactId>repro-android-sdk</artifactId>
-  <version>5.27.0</version>
+  <version>5.27.0-bitmap</version>
   <packaging>aar</packaging>
 
   <name>Repro</name>
